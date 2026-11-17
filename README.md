@@ -14,6 +14,12 @@
 **This **app**lication** is**almost **a** precompiled** app**. However, students will develop some features,**such as adding tasks, viewing tasks, updating tasks, and **deleting** tasks**. **Students** will interact with GitHub when they develop the features.**
 
 ---
+Run the application
+
+- Create .env file with updating Mongo DB connection string
+- As there is no Task controller in backend, uncommenting lines 3,7 and 8 in taskRoute.js
+- remove .env from gitignore
+---
 
 **Prerequisite:** Please install the following software and create account in following web tools** **
 
